@@ -2,3 +2,12 @@ __pycache__/
 *.mp4
 runs/
 .DS_Store
+.venv/
+dataset/
+*.pth
+yolov8x.pt
+drone_v8x.pt
+yolov8m.pt
+yolov8s.pt
+yolov8n.onnx
+shahed_warsaw.pt
